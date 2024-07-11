@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Trung Quân and I'm a Junior Developer, from Vietnam</h2>
+<h2 align="left">Hi 👋! My name is Donny and I'm a Junior Developer, from Vietnam</h2>
 
 ###
 
@@ -48,7 +48,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/weufust211103/weufust211103/output/snake.svg" alt="Snake animation" />
 
 ###
